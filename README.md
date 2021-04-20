@@ -2,7 +2,7 @@
 
 ## Wireframe of Product Page
 
-<img src="https://github.com/ishika1011/Shopping_App_UX/blob/main/Wireframe_output/product_details%20%E2%80%93%201.png" height=700 align=center>
+<img src="https://github.com/ishika1011/Shopping_App_UX/blob/main/Wireframe_output/product_details%20%E2%80%93%201.png" height=700 align="center">
 
 ## Mockup of Product Page
 
